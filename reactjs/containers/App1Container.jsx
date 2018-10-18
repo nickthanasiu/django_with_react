@@ -9,7 +9,7 @@ export default class App1Container extends Component {
         <div className="row">
           <div className="col-sm-12">
             <Headline>
-              Sample New!
+              YO!
             </Headline>
           </div>
         </div>
